@@ -1,4 +1,4 @@
-# Welcome to MY DEV branch!
+# Super professional page title
 
 A simple, modern-styled web page built with plain HTML and an external CSS file.
 
@@ -16,3 +16,4 @@ Open [index.html](index.html) directly in a browser.
 Feel free to use and modify this project for your own purposes.! 
 
 # 🐳
+# Oops, itsa conflict!
